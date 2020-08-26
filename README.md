@@ -1,3 +1,3 @@
 # Learning resources
 
-## Material that I have found useful
+Material that I have found useful.
