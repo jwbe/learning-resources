@@ -10,3 +10,5 @@
 [How does Webpack work?](https://medium.com/ag-grid/webpack-tutorial-understanding-how-it-works-f73dfa164f01)
 
 [Understanding recursion using well-known string reversal pattern example](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
+
+[Eloquent Javascript - Third Edition - Web](https://eloquentjavascript.net/)
