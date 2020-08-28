@@ -16,3 +16,5 @@
 [CSS Weekly - roundup of css articles, tutorials, experiments, tools](https://css-weekly.com/)
 
 [FreeCodeCamp - Free tutorials](https://www.freecodecamp.org)
+
+[Advanced javascript interactive guide - Slightly outdated but useful](https://johnresig.com/apps/learn)
