@@ -12,3 +12,5 @@
 [Understanding recursion using well-known string reversal pattern example](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
 
 [Eloquent Javascript - Third Edition - Web](https://eloquentjavascript.net/)
+
+[CSS Weekly - roundup of css articles, tutorials, experiments, tools](https://css-weekly.com/)
