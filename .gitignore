@@ -1,1 +1,7 @@
 # Consider creating global .gitignore
+
+# Vim temporary files
+*~
+*.swp
+*.swo
+
