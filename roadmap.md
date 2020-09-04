@@ -59,7 +59,9 @@
 - backdrop-filter
 
 
+#### Techniques
 
+- Locks
 
 ## Backend
 
